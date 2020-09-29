@@ -5,7 +5,6 @@ function App() {
   return (
     
     <div className="App">
-    Weather App (Aplicación de clima)
         <WeatherLocation/>
     </div>
     
